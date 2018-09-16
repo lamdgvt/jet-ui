@@ -20,6 +20,8 @@
     "@vue/cli-service": "^3.0.3",
     "babel-plugin-component": "^1.1.1",
     "iview-loader": "^1.2.2",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
     "vue-template-compiler": "^2.5.17"
   },
   "eslintConfig": {
